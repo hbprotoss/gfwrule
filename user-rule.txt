@@ -1,0 +1,9 @@
+! Put user rules line by line in this file.
+! See https://adblockplus.org/en/filter-cheatsheet
+@@||gttown.com
+@@||gttown.cn
+@@||great-tao.com
+||*.google-analytics.com
+||*.sstatic.net
+||stackoverflow.com
+||gravatar.com
